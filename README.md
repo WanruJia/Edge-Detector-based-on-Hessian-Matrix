@@ -1,3 +1,3 @@
-# hello-world
+# Edge Detection Algorithm
 
-This is the very beginning of my GitHub trip. Hope that I can learn more here.
+An edge detector with a new statistical algorithm that out performs two state-of-the-art methods on X-ray images.
